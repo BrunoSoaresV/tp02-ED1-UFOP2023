@@ -1,0 +1,6 @@
+Adjacencias do vertice 0: (0, 0) -> (1, 10) -> (2, 15) -> (3, 20) -> NULL
+Adjacencias do vertice 1: (1, 0) -> (0, 10) -> (3, 25) -> (2, 35) -> NULL
+Adjacencias do vertice 2: (2, 0) -> (0, 15) -> (3, 30) -> (1, 35) -> NULL
+Adjacencias do vertice 3: (3, 0) -> (0, 20) -> (1, 25) -> (2, 30) -> NULL
+Melhor caminho: 0 1 3 2 0
+Melhor distancia: 80
